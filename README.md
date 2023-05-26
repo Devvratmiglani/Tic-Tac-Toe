@@ -73,7 +73,7 @@ _Start:_
 
 ![Screenshot 2023-05-26 204217](https://github.com/devvratmiglani/Tic-Tac-Toe/assets/120363612/8976ffde-4078-4add-bbad-c19581122275)
 
-_Give input and then pc plays itself pc plays itself:_
+_Give input and then pc plays itself:_
 
 ![Screenshot 2023-05-26 203626](https://github.com/devvratmiglani/Tic-Tac-Toe/assets/120363612/6531b02c-e705-4141-bfdf-96ce07888267)
 
