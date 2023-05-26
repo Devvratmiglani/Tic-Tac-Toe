@@ -1,4 +1,4 @@
-import os
+# import os
 xo = ['-', '-', '-', '-', '-', '-', '-', '-', '-']
 
 def board():
@@ -39,7 +39,7 @@ while (True):
     player1 = int(input("Enter PlayerX Number:"))
     if xo[player1] == '-':
         xo[player1] = 'x'
-        os.system("cls")
+        # os.system("cls")
         if CheckWin('x'):
             board()
             print("Player1 wins!")
@@ -49,14 +49,13 @@ while (True):
             print("Game Over!")
             break
         else:
-            # sys.system("cls")
             board()
         
 
     player2 = int(input("Enter PlayerO Number:"))
     if xo[player2] == '-':
         xo[player2] = 'o'
-        os.system("cls")
+        # os.system("cls")
         if CheckWin('o'):
             board()
             print("Player2 wins!")
@@ -66,7 +65,6 @@ while (True):
             print("Game Over!")
             break
         else:
-            # sys.system("cls")
             board()
 
 #0 1 2 4 7 5 3 6 8 -Game Over Condition
