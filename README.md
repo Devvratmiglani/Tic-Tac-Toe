@@ -32,7 +32,7 @@
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/devvrat-miglani-06418022a)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvrat-miglani-06418022a)
 [![instagram](https://img.shields.io/badge/Instagram-%20-ff69b7?style=for-the-badge&logo=instagram)](https://www.instagram.com/devvratmiglani/)
 
 ## Installation
